@@ -1,8 +1,6 @@
 # FlexProject
-It's an flex project
-<br/>
-wondering what it is ?
+It's a flex project
 <br/>
 this program has the ability to recognize the type of words you enter
 <br/>
-all you need to do is downloading exe file and run it, by entering some strings it recongizes the word if it's in its database
+all you need to do is downloading exe file and run it, by entering some strings it recongizes the word only if it's in its database
